@@ -1,4 +1,4 @@
-# euler_science_summer2023
+# euler_science_summer_2023
 This is a repository that contains a project summary of tasks done as a 2023 summer intern at Euler Science LLC. 
 
 # Responsible tasks
