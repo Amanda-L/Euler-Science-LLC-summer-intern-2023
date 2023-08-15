@@ -9,3 +9,5 @@ Semantic similarity was achieved through the development of tools and processing
 The corresponding embeddings were then clustered and evaluated using a distance metric. 
 
 For the second, I also prototyped a quality  control pipeline where the ranking of documents by semantic similarity was evaluated and compared.
+
+To see the workflow and contribution, see Task done for summer project.pdf
