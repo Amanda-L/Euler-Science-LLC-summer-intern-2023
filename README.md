@@ -4,6 +4,7 @@ This is a repository that contains a project summary of tasks done as a 2023 sum
 # Responsible tasks
 
 I worked on one major project with two components. 
+
 For the first, I implemented a processing pipeline that extracted and converted patent information for comparison via semantic similarity. 
 Semantic similarity was achieved through the development of tools and processing scripts that created document embeddings using  encoders from Large Language Models. 
 The corresponding embeddings were then clustered and evaluated using a distance metric. 
