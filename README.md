@@ -3,6 +3,9 @@ This is a repository that contains a project summary of tasks done as a 2023 sum
 
 # Responsible tasks
 
+Project objectives:
+
+
 I worked on one major project with two components. 
 
 For the first, I implemented a processing pipeline that extracted and converted patent information for comparison via semantic similarity. 
