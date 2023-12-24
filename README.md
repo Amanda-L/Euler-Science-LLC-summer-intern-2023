@@ -2,7 +2,7 @@
 This is a repository that contains a project summary of helping develop ARCHIMEDES(ARCHetype for IMprovED knowledgE Search) as a 2023 summer intern at Euler Science LLC. 
 
 ## **Project Objectives:**
-The primary objective of ARCHIMEDES is to enhance the efficiency and intuitiveness of exploration and discovery in fields heavily reliant on research. The project seeks to address the limitations of traditional search engines, particularly in scientific and research contexts.
+The primary objective of ARCHIMEDES is to enhance the efficiency and intuitiveness of exploration and discovery in fields heavily reliant on research. The product seeks to address the limitations of traditional search engines, particularly in scientific and research contexts.
 
 The goal of ARCHIMEDES is to recontextualize the problem domain of search engines, moving away from rank-based methods towards interactive graphical search. By doing so, the project aims to provide a more effective tool for scientists, researchers, graduate students, and patent lawyers to quickly discover and assess relevant research literature and prior art.
 
