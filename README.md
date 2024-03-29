@@ -1,4 +1,4 @@
-# euler_science_summer_2023
+# Description
 This is a repository that contains a project summary of helping develop ARCHIMEDES(ARCHetype for IMprovED knowledgE Search) as a 2023 summer intern at Euler Science LLC. 
 
 ## **Project Objectives**
