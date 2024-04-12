@@ -18,7 +18,7 @@ I worked on one major project with two components.
 
 1. I implemented a processing pipeline that extracted and converted patent information for comparison via semantic similarity. 
 Semantic similarity was achieved through the development of tools and processing scripts that created document embeddings using  encoders from Large Language Models. 
-The corresponding embeddings were then clustered and evaluated using a distance metric. 
+The corresponding embeddings were then clustered and evaluated using a distance metric from the Milvus database. 
 
 2. I also prototyped a quality control pipeline where the ranking of documents by semantic similarity was evaluated and compared.
 
